@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+boto3
+shap-e
+huggingface_hub
+python-dotenv
+psycopg2-binary
+stripe
+authlib
+redis
